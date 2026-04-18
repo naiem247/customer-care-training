@@ -12,15 +12,28 @@
 6. Final Evaluation
 
 
+## 📚 Modules Overview
+
 এই প্রোগ্রামের মাধ্যমে প্রশিক্ষণার্থীরা ধাপে ধাপে শিখবে—
 
-| # | Module                | Sub Topics |
-| - | --------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 1 | 💻 Computer Basics    | [Hardware](#-computer-basics) • [Operating System](#-computer-basics) • [Internet](#-computer-basics)        |
-| 2 | 🤝 Customer Handling  | [Communication](#-customer-handling) • [Client Psychology](#-customer-handling) • [CRM](#-customer-handling) |
-| 3 | 🖥️ Software Training | [School System](#-software-training) • [Ecommerce](#-software-training) • [Accounting](#-software-training)  |
-| 4 | 🔌 Device Integration | [Attendance Device](#-device-integration) • [IP Setup](#-device-integration)                                 |
-| 5 | ⚙️ Technical Support  | [Troubleshooting](#-technical-support) • [Remote Support](#-technical-support)                               |
-| 6 | 🎯 Final Evaluation   | [Live Project](#-final-evaluation) • [Presentation](#-final-evaluation)                                      |
+---
+
+### 💻 Core Modules
+
+| #  | Module                | Topics                        | Access                                             |
+| -- | --------------------- | ----------------------------- | -------------------------------------------------- |
+| 01 | 💻 Computer Basics    | Hardware, OS, Internet        | 👉 [Open Module](modules/01-computer-basics.md)    |
+| 02 | 🤝 Customer Handling  | Communication, CRM            | 👉 [Open Module](modules/02-customer-handling.md)  |
+| 03 | 🖥️ Software Training | Bebsha365, Edunova365, Accounting | 👉 [Open Module](modules/03-software-training.md)  |
+| 04 | 🔌 Device Integration | Attendance, IP Setup          | 👉 [Open Module](modules/04-device-integration.md) |
+| 05 | ⚙️ Technical Support  | Troubleshooting, Remote Tools | 👉 [Open Module](modules/05-technical-support.md)  |
+| 06 | 🎯 Final Evaluation   | Assessment     | 👉 [Open Module](modules/06-final-evaluation.md)   |
+
+---
+
+📌 **নির্দেশনা:**
+প্রতিটি Module-এ ক্লিক করলে বিস্তারিত কনটেন্ট, Assignment ও Quiz দেখতে পারবেন।
+
+---
 
 
