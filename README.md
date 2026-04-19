@@ -19,10 +19,10 @@
 | #  | Module                | Topics                        | Access                                             |
 | -- | --------------------- | ----------------------------- | -------------------------------------------------- |
 | 01 | 💻 Computer Basics    | Hardware, OS, Internet        | 👉 [Open Module](modules/01-computer-basics.md)    |
-| 02 | ⚙️ Soft Skill & Emotional Intelligence  |    Troubleshooting, Remote Tools        | 👉 [Open Module](modules/02-customer-handling.md)  |
+| 02 | ⚙️ Soft Skill & Emotional Intelligence  |    Troubleshooting, Remote Tools        | 👉 [Open Module](modules/02-Soft-Skill-Emotional-Intelligence-Module.md)  |
 | 03 | 🖥️ Software Training | Bebsha365, Edunova365, Accounting | 👉 [Open Module](modules/03-software-training.md)  |
 | 04 | 🔌 Device Integration | Attendance, IP Setup          | 👉 [Open Module](modules/04-device-integration.md) |
-| 05 | 🤝 Customer Handling  | Communication, CRM  | 👉 [Open Module](modules/05-technical-support.md)  |
+| 05 | 🤝 Customer Handling  | Communication, CRM  | 👉 [Open Module](modules/05-customer-handling.md)  |
 | 06 | 🎯 Final Evaluation   | Assessment     | 👉 [Open Module](modules/06-final-evaluation.md)   |
 
 ---
