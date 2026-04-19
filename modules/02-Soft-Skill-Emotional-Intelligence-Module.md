@@ -5,126 +5,126 @@
 Objective: নিজের আচরণ ও emotion বোঝা
 
 Topics:
-•	Emotion কি? (anger, stress, frustration) 
-•	Trigger points চেনা (কখন রাগ/চাপ আসে) 
-•	Strength & weakness identify করা 
+1.	Emotion কি? (anger, stress, frustration) 
+2.	Trigger points চেনা (কখন রাগ/চাপ আসে) 
+3.	Strength & weakness identify করা 
 
 Practice:
-•	“আমি কেমন react করি?” self-reflection sheet 
-•	Real situation লিখে analyze করা
+1.	“আমি কেমন react করি?” self-reflection sheet 
+2.	Real situation লিখে analyze করা
 
 ## Module 2: Self-Control (Emotion Control)
 
 Objective: চাপের মধ্যে calm থাকা
 
 Topics:
-•	Instant reaction vs thoughtful response 
-•	Stress handling techniques 
-•	কথার tone control 
+1.	Instant reaction vs thoughtful response 
+2.	Stress handling techniques 
+3.	কথার tone control 
 
 Practice:
-•	Angry customer simulation 
-•	“Pause → Think → Respond” drill
+1.	Angry customer simulation 
+2.	“Pause → Think → Respond” drill
 
 ## Module 3: Active Listening
 
 Objective: কাস্টমারকে ঠিকভাবে বুঝা
 
 Topics:
-•	Listening vs Hearing 
-•	Interrupt না করা 
-•	Key problem identify করা 
+1.	Listening vs Hearing 
+2.	Interrupt না করা 
+3.	Key problem identify করা 
 
 Practice:
-•	Pair exercise (একজন বলবে, অন্যজন summary দিবে) 
-•	ভুল বুঝার case analysis
+1.	Pair exercise (একজন বলবে, অন্যজন summary দিবে) 
+2.	ভুল বুঝার case analysis
 
 ## Module 4: Effective Communication
 
 Objective: clear & professional কথা বলা
 
 Topics:
-•	Simple & clear language 
-•	Tone & body language 
-•	Positive wording (e.g., “না” না বলে alternative দেয়া) 
+1.	Simple & clear language 
+2.	Tone & body language 
+3.	Positive wording (e.g., “না” না বলে alternative দেয়া) 
 
 Practice:
-•	Same message different tone exercise 
-•	Chat & call script practice
+1.	Same message different tone exercise 
+2.	Chat & call script practice
 
 ## Module 5: Empathy Building
 
 Objective: কাস্টমারের জায়গা থেকে ভাবা
 
 Topics:
-•	Empathy vs Sympathy 
-•	Customer pain point বোঝা 
-•	Trust build করা 
+1.	Empathy vs Sympathy 
+2.	Customer pain point বোঝা 
+3.	Trust build করা 
 
 Practice:
-•	“If I were the customer…” exercise 
-•	Real complaint analysis
+1.	“If I were the customer…” exercise 
+2.	Real complaint analysis
 
 ## Module 6: Handling Difficult Customers
 
 Objective: tough situation control
 
 Topics:
-•	Angry, confused, impatient customer types 
-•	De-escalation techniques 
-•	Apology + solution structure 
+1.	Angry, confused, impatient customer types 
+2.	De-escalation techniques 
+3.	Apology + solution structure 
 
 Practice:
-•	Role play (trainer = angry customer 😄) 
-•	“What NOT to say” exercise
+1.	Role play (trainer = angry customer 😄) 
+2.	“What NOT to say” exercise
 
 ## Module 7: Problem Solving Mindset
 
 Objective: solution-focused হওয়া
 
 Topics:
-•	Problem identify → solution suggest 
-•	Blame না দিয়ে ownership নেয়া 
-•	Quick decision making 
+1.	Problem identify → solution suggest 
+2.	Blame না দিয়ে ownership নেয়া 
+3.	Quick decision making 
 
 Practice:
-•	Scenario-based সমস্যা solve 
-•	Time-bound challenge
+1.	Scenario-based সমস্যা solve 
+2.	Time-bound challenge
 
 ## Module 8: Time & Stress Management
 
 Objective: pressure handle করা
 
 Topics:
-•	Work prioritization 
-•	Multitasking basics 
-•	Burnout avoid করা 
+1.	Work prioritization 
+2.	Multitasking basics 
+3.	Burnout avoid করা 
 
 Practice:
-•	Task prioritization game 
-•	চাপের মধ্যে decision simulation
+1.	Task prioritization game 
+2.	চাপের মধ্যে decision simulation
 
 ## Module 9: Professional Behavior & Work Ethics
 
 Objective: অফিস culture বুঝা
 
 Topics:
-•	Discipline & punctuality 
-•	Responsibility & accountability 
-•	Team collaboration
+1.	Discipline & punctuality 
+2.	Responsibility & accountability 
+3.	Team collaboration
 
 ## Module 10: Real-Life Simulation & Feedback
 
 Objective: সবকিছু একসাথে প্রয়োগ
 
 Activities:
-•	Live customer scenario 
-•	Chat + call + complaint handling 
-•	Peer & trainer feedback
+1.	Live customer scenario 
+2.	Chat + call + complaint handling 
+3.	Peer & trainer feedback
 
 Evaluation System
-•	Behavior observation 
-•	Communication clarity 
-•	Emotional control 
-•	Problem-solving ability
+1.	Behavior observation 
+2.	Communication clarity 
+3.	Emotional control 
+4.	Problem-solving ability
 

@@ -3,82 +3,82 @@
 ## Module 1: Computer Fundamentals
 
 Objective: কম্পিউটার সম্পর্কে পরিষ্কার ধারণা
-•	Computer কি, কিভাবে কাজ করে 
-•	Hardware vs Software 
-•	Input/Output devices (keyboard, mouse, monitor, printer) 
-•	Operating System (Windows basic idea)
+1.	Computer কি, কিভাবে কাজ করে 
+2.	Hardware vs Software 
+3.	Input/Output devices (keyboard, mouse, monitor, printer) 
+4.	Operating System (Windows basic idea)
 
 ## Module 2: Windows & File Management
 Objective: ফাইল নিয়ে কাজ করতে পারা
-•	Desktop, Taskbar, Start Menu 
-•	Folder create, rename, copy, move, delete 
-•	File types (PDF, DOCX, JPG, etc.) 
-•	Pen drive / external drive use
+1.	Desktop, Taskbar, Start Menu 
+2.	Folder create, rename, copy, move, delete 
+3.	File types (PDF, DOCX, JPG, etc.) 
+4.	Pen drive / external drive use
 
 ## Module 3: Typing & Keyboard Skills
 Objective: fast ও accurate typing
-•	Keyboard layout (basic keys) 
-•	Bangla typing (Avro / Bijoy basic) 
-•	English typing practice
+1.	Keyboard layout (basic keys) 
+2.	Bangla typing (Avro / Bijoy basic) 
+3.	English typing practice
 
 ## Module 4: Internet & Browsing
 Objective: smartভাবে internet ব্যবহার
-•	Browser use (Chrome/Edge) 
-•	Google search technique 
-•	Download/upload file 
-•	Email create & manage
+1.	Browser use (Chrome/Edge) 
+2.	Google search technique 
+3.	Download/upload file 
+4.	Email create & manage
 
 ## Module 5: Email & Professional Communication
 Objective: অফিসিয়াল যোগাযোগ
-•	Professional email writing 
-•	Subject line, format 
-•	Reply & forward 
-•	Spam & security awareness
+1.	Professional email writing 
+2.	Subject line, format 
+3.	Reply & forward 
+4.	Spam & security awareness
 
 ## Module 6: Microsoft Word (Documentation)
 Objective: basic document তৈরি
-•	Typing document 
-•	Font, size, alignment 
-•	Table create 
-•	Save as PDF
+1.	Typing document 
+2.	Font, size, alignment 
+3.	Table create 
+4.	Save as PDF
 
 ## Module 7: Microsoft Excel (Basic অফিস কাজ)
 Objective: data handle করা
-•	Spreadsheet basic 
-•	Data entry 
-•	Simple formulas (SUM, AVERAGE) 
-•	Table & sorting
+1.	Spreadsheet basic 
+2.	Data entry 
+3.	Simple formulas (SUM, AVERAGE) 
+4.	Table & sorting
 
 ## Module 8: PowerPoint (Basic Presentation)
 Objective: simple presentation বানানো
-•	Slide create 
-•	Text & image add 
-•	Simple design
+1.	Slide create 
+2.	Text & image add 
+3.	Simple design
 
 ## Module 9: Online Meeting & Remote Support (Day 27)
-•	Zoom / Google Meet 
-•	Screen share support 
-•	Online demo delivery
+1.	Zoom / Google Meet 
+2.	Screen share support 
+3.	Online demo delivery
 
 ## Module 10: Basic Troubleshooting
 Objective: ছোট সমস্যা নিজে solve করা
-•	PC slow হলে কি করবে 
-•	Internet problem basic check 
-•	Software install/uninstall 
-•	Restart, update basics
+1.	PC slow হলে কি করবে 
+2.	Internet problem basic check 
+3.	Software install/uninstall 
+4.	Restart, update basics
 
 ## Module 11: Digital Safety & Security
 Objective: safe থাকা
-•	Password security 
-•	Virus awareness 
-•	Safe browsing
+1.	Password security 
+2.	Virus awareness 
+3.	Safe browsing
 
 ## Final Assessment (খুব গুরুত্বপূর্ণ)
-•	Typing test 
-•	Email writing test 
-•	Excel task 
-•	Real-life scenario (customer support related)
-•	Live chat typing practice
-•	Screen share practice
-•	Quick response training
+1.	Typing test 
+2.	Email writing test 
+3.	Excel task 
+4.	Real-life scenario (customer support related)
+5.	Live chat typing practice
+6.	Screen share practice
+7.	Quick response training
 
