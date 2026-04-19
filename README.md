@@ -5,10 +5,10 @@
 
 ## 📚 Modules Overview
 1. Computer Basics
-2. Customer Handling
+2. Soft Skill & Emotional Intelligence
 3. Software Training
 4. Device Integration
-5. Technical Support
+5. Customer Handling
 6. Final Evaluation
 
 
@@ -16,15 +16,13 @@
 
 ---
 
-### 💻 Core Modules
-
 | #  | Module                | Topics                        | Access                                             |
 | -- | --------------------- | ----------------------------- | -------------------------------------------------- |
 | 01 | 💻 Computer Basics    | Hardware, OS, Internet        | 👉 [Open Module](modules/01-computer-basics.md)    |
-| 02 | 🤝 Customer Handling  | Communication, CRM            | 👉 [Open Module](modules/02-customer-handling.md)  |
+| 02 | ⚙️ Soft Skill & Emotional Intelligence  |    Troubleshooting, Remote Tools        | 👉 [Open Module](modules/02-customer-handling.md)  |
 | 03 | 🖥️ Software Training | Bebsha365, Edunova365, Accounting | 👉 [Open Module](modules/03-software-training.md)  |
 | 04 | 🔌 Device Integration | Attendance, IP Setup          | 👉 [Open Module](modules/04-device-integration.md) |
-| 05 | ⚙️ Technical Support  | Troubleshooting, Remote Tools | 👉 [Open Module](modules/05-technical-support.md)  |
+| 05 | 🤝 Customer Handling  | Communication, CRM  | 👉 [Open Module](modules/05-technical-support.md)  |
 | 06 | 🎯 Final Evaluation   | Assessment     | 👉 [Open Module](modules/06-final-evaluation.md)   |
 
 ---
